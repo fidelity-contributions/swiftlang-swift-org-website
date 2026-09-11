@@ -3,7 +3,7 @@ layout: new-layouts/post
 published: true
 date: 2026-09-11 11:30
 title: "Module Tracking in Swift Debug Info"
-author: [adrianprantl]
+author: [adrian-prantl]
 category: "Developer Tools"
 ---
 
